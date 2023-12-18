@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [ds algo skills](https://github.com/Sanket-Pargaonkar/ds-algo)
 
-- 🌱 I’m currently learning **Linux from scratch, K8s,**
+- 🌱 I’m currently learning **Linux from scratch, K8s, AWS **
 
 - 👨‍💻 All of my projects are available at [https://github.com/Sanket-Pargaonkar](https://github.com/Sanket-Pargaonkar)
 
