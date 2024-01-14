@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [ds algo skills](https://github.com/Sanket-Pargaonkar/ds-algo)
 
-- 🌱 I’m currently learning **{Spring](https://github.com/Sanket-Pargaonkar/SpringCoreBasicsRepo1.git), Linux from scratch, K8s, AWS**
+- 🌱 I’m currently learning **[Spring](https://github.com/Sanket-Pargaonkar/SpringCoreBasicsRepo1.git), Linux from scratch, K8s, AWS**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Sanket-Pargaonkar](https://github.com/Sanket-Pargaonkar)
 
